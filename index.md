@@ -1,2 +1,2 @@
-<p> Chuan Jin </p>
-<p> Personal website </p>
+Chuan Jin
+Personal website
